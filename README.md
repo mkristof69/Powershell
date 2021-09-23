@@ -1,0 +1,2 @@
+# Powershell
+Diglett+Tyranitar=Dignitar
